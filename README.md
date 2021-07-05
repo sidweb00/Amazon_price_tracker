@@ -14,5 +14,5 @@ This is a simple price tracker app using python that regularly compares the pric
 <h3>Learn More</h3>
 <ul>
   <li><a href= "https://automatetheboringstuff.com/2e/chapter12/">Web Scrapping</a></li>
-  <li><a href= "https://keepa.com/#!">Website to look at</a></li>
+  <li><a href= "https://keepa.com/#!">Website to look at - Keepa</a></li>
 </ul>
