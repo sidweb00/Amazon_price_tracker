@@ -11,3 +11,8 @@ This is a simple price tracker app using python that regularly compares the pric
   <li><a href= "https://www.geeksforgeeks.org/amazon-product-price-tracker-using-python/">Amazon Product Price Tracker- Geeks for Geeks</a></li>
   <li><a href= "https://www.scrapehero.com/tutorial-how-to-scrape-amazon-seller-prices-using-python/">Scape Hero Tutorial</a></li>
   </ul>
+<h3>Learn More</h3>
+<ul>
+  <li><a href= "https://automatetheboringstuff.com/2e/chapter12/">Web Scrapping</a></li>
+  <li><a href= "https://keepa.com/#!">Website to look at</a></li>
+</ul>
